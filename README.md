@@ -4,6 +4,8 @@
 
 [refer](http://blogs.vmware.com/cloudhealth/files/2018/07/Aws-vs-Azure.png)
 
+# All services gcp constituted
+
 ### Compute Services
 - Compute Engine
   - IAAS
@@ -75,3 +77,22 @@
  
 - Cloud Data Fusion
   - Fully managed cloud-native data integration at any scale, ETL service of GCP.
+
+### AI & ML Services
+
+- Cloud AI building block
+  - Cloud video intelligence API
+  - Cloud sppech to text
+  - Cloud Vision API(Image labelling, Face and Landmark detection, OCR)
+  - Cloud Natural Language API(Sentiment analysis, content classification)
+  - Cloud Translation(Translate text to various languages)
+  - Dialog flow
+
+- AutoML
+
+- BigQuery ML
+  - Enable user to execute ML models by using normal sql query.
+- AI platform
+  - Data scientist & data engineering work
+
+### Big Data Ecosystem [Refer](https://miro.medium.com/max/1400/0*HQTP_FpEDiIth6DE)
