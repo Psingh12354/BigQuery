@@ -2,7 +2,7 @@
 
 ### GCP VS AWS VS AZURE
 
-![img](http://blogs.vmware.com/cloudhealth/files/2018/07/Aws-vs-Azure.png)
+[refer](http://blogs.vmware.com/cloudhealth/files/2018/07/Aws-vs-Azure.png)
 
 ### Compute Services
 - Compute Engine
