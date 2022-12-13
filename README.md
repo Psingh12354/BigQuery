@@ -96,3 +96,31 @@
   - Data scientist & data engineering work
 
 ### Big Data Ecosystem [Refer](https://miro.medium.com/max/1400/0*HQTP_FpEDiIth6DE)
+
+### Data warehouse
+
+Data coming from multiple sources need some location to store. So, Datawarehouse some in role.
+
+### Data mining 
+
+To get why ans we use data mining for example why sales is down etc.
+
+### BigQuery
+
+Bigquery is a fully managed, serverless, highly scalable, and cost-effective cloud datawarehouse designed for business agility.
+
+- Bigquery support both batch and streaming of data.
+- 100k rows per sec to store
+- In a batch mode it can store TB of data
+- Support AI and ML
+- Fully managed
+- Pay per use
+- Scalable.
+- Automated data transfer
+- Access Control IAM(Identity and access management) 
+
+### Architecture ![refer](https://storage.googleapis.com/gweb-cloudblog-publish/images/BQ_Explained_2.max-900x900.jpg)
+
+- Engine - **Dremel**, which is compbination of columnar and tree architecture.
+- File System - **Clossus**(Columnar storage), Google distributed file system.
+
