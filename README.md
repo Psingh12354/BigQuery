@@ -107,7 +107,7 @@ To get why ans we use data mining for example why sales is down etc.
 
 ### BigQuery
 
-Bigquery is a fully managed, serverless, highly scalable, and cost-effective cloud datawarehouse designed for business agility.
+Bigquery is a fully managed, serverless, highly scalable, and cost-effective cloud datawarehouse designed for business agility. In bigquery we have top level container which is dataset which contain multiple table in it.
 
 - Bigquery support both batch and streaming of data.
 - 100k rows per sec to store
@@ -124,3 +124,4 @@ Bigquery is a fully managed, serverless, highly scalable, and cost-effective clo
 - Engine - **Dremel**, which is compbination of columnar and tree architecture.
 - File System - **Clossus**(Columnar storage), Google distributed file system.
 
+- Query setting help to work with batch data(Bigquey Engine) and Cloud Dataflow(Streaming data).
