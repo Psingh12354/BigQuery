@@ -125,3 +125,10 @@ Bigquery is a fully managed, serverless, highly scalable, and cost-effective clo
 - File System - **Clossus**(Columnar storage), Google distributed file system.
 
 - Query setting help to work with batch data(Bigquey Engine) and Cloud Dataflow(Streaming data).
+
+### Auto Schema Detection
+
+- BigQuery select random file in source -> scans upto 100 rows as sample -> examine each field's and attempts to assign data type based on sample values.
+- Csv and Json onlt.
+- date schema auto detection must be in yyyy-mm-dd format
+- BigQery consider header row by default by comparing data in the column.
