@@ -132,3 +132,13 @@ Bigquery is a fully managed, serverless, highly scalable, and cost-effective clo
 - Csv and Json onlt.
 - date schema auto detection must be in yyyy-mm-dd format
 - BigQery consider header row by default by comparing data in the column.
+
+### View 
+- Virtual table which really doesn't exist.
+- Materialized view required disk to store unlike normal view and also speed is faster.
+- Materialize view doesn't support having clause.
+- Alter with set option supported in materialized view.
+- Drop is possible.
+- It store but we can't modify or copy.
+- It refer to single table or nested so we can't apply joins.
+- 20 materialized view for a table.
